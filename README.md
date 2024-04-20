@@ -1,4 +1,4 @@
-# FLMGraMag
+# FLMGraMag1.0
 A fast lofting method of gravity and magnetic exploration and the software interface realization of Matlab code （FLMGraMag1.0）
   HAO Aowei1, ZHENG Yanrong2*
 
